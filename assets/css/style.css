@@ -1,0 +1,67 @@
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.wrapper{
+    height: 500px;
+    background-color: #44ff92;
+    margin: 60px 450px!important;
+    border-radius: 0.75rem;
+    box-shadow: 10px 10px 35px;
+}
+
+.result{
+    height: 120px;
+    background-color: #ecf0f1;
+    border-radius: 0.75rem 0.75rem 0 0;
+    font-family: 'Orbitron', sans-serif;
+}
+
+.result p{
+    text-align: end;
+    position: relative;
+    top: 54px;
+    margin-right: 10px;
+    font-size: 30px;
+}
+
+.operation-section .row .col-sm-3 button{
+    margin: 4px;
+    padding: 20px 30px;
+    border-radius: 50%;
+    font-family: 'Nova Square', cursive;
+}
+
+.divide{
+    background-color: #e74c3c;
+}
+
+.times{
+    background-color: #8e44ad;
+}
+
+.minus{
+    background-color: #57b2ee;
+}
+
+.plus{
+    background-color: #2ecc71;
+}
+
+.equals{
+    background-color: #f39c12;
+}
+
+.square-root{
+    background-color: #f1c40f;
+}
+
+.c{
+    background-color: #1abc9c;
+}
+
+.inverse-symbol{
+    background-color: #1d97e9;
+}
